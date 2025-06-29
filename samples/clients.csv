@@ -1,0 +1,4 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C1,Acme Corp,3,T1,TG1,"{\"industry\":\"retail\",\"location\":\"NY\"}"
+C2,Globex Inc,5,T2,TG2,"{\"industry\":\"finance\",\"location\":\"SF\"}"
+C3,Initech,2,T1,TG1,"{\"industry\":\"tech\",\"location\":\"LA\"}"

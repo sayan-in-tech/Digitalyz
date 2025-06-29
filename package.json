@@ -1,0 +1,39 @@
+{
+  "name": "digitalyz-data-alchemist",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.5.11",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.5",
+    "@types/papaparse": "^5.2.6",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
+    "typescript": "5.0.4"
+  },
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hvshitesh/Digitalyz-Data-Alchemist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hvshitesh/Digitalyz-Data-Alchemist/issues"
+  },
+  "homepage": "https://github.com/Hvshitesh/Digitalyz-Data-Alchemist#readme",
+  "description": ""
+}
